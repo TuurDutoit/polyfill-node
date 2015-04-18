@@ -1,0 +1,26 @@
+{
+  "name": "polyfill-node",
+  "version": "1.0.0",
+  "description": "A node.js module for bundling polyfills. Check out https://github.com/TuurDutoit/polyfill-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TuurDutoit/polyfill-node.git"
+  },
+  "keywords": [
+    "polyfill",
+    "bundle"
+  ],
+  "author": "Tuur Dutoit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TuurDutoit/polyfill-node/issues"
+  },
+  "homepage": "https://github.com/TuurDutoit/polyfill-node",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
